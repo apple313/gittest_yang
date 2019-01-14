@@ -14,5 +14,6 @@ Master Added Confliction!!!
 Test3 Resolved Conflictoin!!! 
 Master Added a new Feature!!!
 Test3 Added a new Feature!!!
-Push. 
+Push.
+Push.  
 
