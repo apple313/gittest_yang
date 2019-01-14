@@ -17,4 +17,5 @@ Test3 Added a new Feature!!!
 Push.
 Push.  
 Push by test. 
+Pull by test1. 
 
