@@ -18,4 +18,4 @@ Push.
 Push.  
 Push by test. 
 Pull by test1. 
-Conflict by Test. 
+Conflict by Test&Test1. 
